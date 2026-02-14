@@ -6,7 +6,7 @@ Through academic projects and technical training, I have applied analytical tool
 
 I am currently developing projects that combine engineering logic with data analysis, aiming to bridge the gap between industrial systems and analytical tools.
 
-Core Interests
+Core Interests:
 
 Data Analysis & Business Intelligence
 
